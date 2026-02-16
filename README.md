@@ -1,8 +1,9 @@
 🏡 MyHomeStay – Your Vacation Stay Companion
 
-MyHomeStay is a full-stack vacation rental web application inspired by Airbnb. It allows users to explore, book, and manage vacation homes seamlessly. Built with Node.js, Express, MongoDB, and EJS templates, MyHomeStay delivers a smooth and dynamic booking experience.
+MyHomeStay is a full-stack vacation rental web application inspired by Airbnb, designed to demonstrate real-world full-stack development practices. The platform allows users to browse listings, book stays, and manage reservations through an intuitive interface. Built using the MVC architecture with Node.js, Express, MongoDB Atlas, and EJS templates, MyHomeStay showcases secure authentication and authorization, cloud-based image storage via Cloudinary, and scalable online data management—highlighting strong backend logic, clean code organization, and user-centric design.
 
 🌟 Project Name Meaning
+
 MyHomeStay is a combination of two ideas:
 
 My – a personal and welcoming experience that makes guests feel at home.
@@ -43,15 +44,21 @@ Database
 
 The application uses MongoDB Atlas, a cloud-based NoSQL database, to securely store and manage user, property, and booking data.
 
-🔧 Tech Stack
+🛠️ Tech Stack
 
-Backend: Node.js, Express.js, MongoDB, Mongoose
+🟢 Backend: Node.js, Express
 
-Frontend: EJS Templates, Bootstrap/CSS
+🗄️ Database: MongoDB Atlas
 
-Authentication: Passport.js (Google & Local Strategy)
+🎨 Frontend: EJS, HTML5, CSS3, Bootstrap
 
-File Storage: Cloudinary
+☁️ Image Storage: Cloudinary
+
+🔐 Authentication: Passport.js
+
+🧱 Architecture: MVC (Model–View–Controller)
+
+⚙️ Tools & Utilities: Git, GitHub, npm
 
 🚀 Project Goal
 
