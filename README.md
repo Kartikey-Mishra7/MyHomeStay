@@ -25,6 +25,8 @@ Together, MyHomeStay represents a platform that helps users discover, book, and 
 
 🔐 Authentication & authorization with Passport.js
 
+🌐 Cloud-based data storage using MongoDB Atlas for secure, scalable, and reliable online persistence
+
 
 Architecture
 
