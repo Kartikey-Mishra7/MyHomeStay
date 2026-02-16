@@ -37,9 +37,11 @@ Controller – Handles application logic and routes using Express
 
 
 Database
+
 The application uses MongoDB Atlas, a cloud-based NoSQL database, to securely store and manage user, property, and booking data.
 
 🔧 Tech Stack
+
 Backend: Node.js, Express.js, MongoDB, Mongoose
 
 Frontend: EJS Templates, Bootstrap/CSS
@@ -49,6 +51,7 @@ Authentication: Passport.js (Google & Local Strategy)
 File Storage: Cloudinary
 
 🚀 Project Goal
+
 MyHomeStay brings the experience of a real-world vacation rental platform into code. It is designed to help developers explore full-stack architecture, implement secure login and signup systems, and craft smooth, user-friendly booking journeys — all while building an application that feels practical, intuitive, and close to real life.
 
 Screenshots
