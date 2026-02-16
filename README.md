@@ -2,7 +2,8 @@
 
 MyHomeStay is a full-stack vacation rental web application inspired by Airbnb. It allows users to explore, book, and manage vacation homes seamlessly. Built with Node.js, Express, MongoDB, and EJS templates, MyHomeStay delivers a smooth and dynamic booking experience.
 
-🌟 Project Name Meaning MyHomeStay is a combination of two ideas:
+🌟 Project Name Meaning
+MyHomeStay is a combination of two ideas:
 
 My – a personal and welcoming experience that makes guests feel at home.
 
