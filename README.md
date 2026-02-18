@@ -16,21 +16,56 @@ Together, MyHomeStay represents a platform that helps users discover, book, and 
 
 ---
 
-✨ Features
+## 🚀 Key Features (Recruiter-Focused)
 
-🔍 Browse and search vacation listings
+- 🏠 **Dynamic Listing Management**  
+  Create, view, update, and delete property listings with real-time data handling and validation.
 
-📆 Book stays and share experience by rating
+- ➕ **Add New Listing Workflow**  
+  Structured form-based listing creation with image upload, category selection, pricing, and location details.
 
-👤 User profiles with booking history
+- 🗂️ **Category-Based Organization**  
+  Listings are grouped by categories for improved discoverability and user navigation.
 
-🏗️ MVC-based project structure for clean and maintainable code
+- ✏️ **Secure Edit & Delete Operations**  
+  Role-based access control ensures only authorized users can modify or remove their own listings.
 
-🖼️ Cloudinary integration for image uploads
+- 💬 **Review & Rating System**  
+  Users can post reviews and ratings, enabling trust-building and transparent feedback mechanisms.
+
+- ⭐ **Automated Rating Aggregation**  
+  Average ratings are calculated dynamically to provide accurate listing scores.
+
+- 🔐 **Authentication & Authorization**  
+  Secure user authentication with protected routes and ownership verification.
+
+- 📸 **Media Upload & Preview**  
+  Image upload support with instant preview for improved user experience.
+
+- 🧩 **MVC Architecture Implementation**  
+  Clean separation of concerns using the Model–View–Controller design pattern for maintainability.
+
+- 🗄️ **Database-Driven Design**  
+  Persistent data storage with schema validation and relational references.
+
+- 📱 **Responsive & Accessible UI**  
+  Fully responsive interface optimized for desktop and mobile users.
+
+- ⚡ **Scalable Backend Architecture**  
+  Built to handle growth with optimized queries and efficient request handling.
+
+- 🛡️ **Input Validation & Error Handling**  
+  Robust server-side and client-side validation with graceful error management.
+
+- 🚀 **Production-Ready Deployment**  
+  Environment-based configuration, secure secrets management, and deployment-ready setup.
+
+
+-🖼️ Cloudinary integration for image uploads
 
 🔐 Authentication & authorization with Passport.js
 
-🌐 Cloud-based data storage using MongoDB Atlas for secure, scalable, and reliable online persistence
+-🌐 Cloud-based data storage using MongoDB Atlas for secure, scalable, and reliable online persistence
 
 ---
 
