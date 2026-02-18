@@ -17,7 +17,7 @@ const reviewRouter = require("./routes/review.js");
 const userRouter = require("./routes/user.js");
 const searchRouter = require("./routes/search.js");
 //const MONGO_URL
-const dbUrl = process.env.ATLASDB_URl;
+const dbUrl = process.env.ATLASDB_URL;
 
 const session = require("express-session");
 const flash = require("connect-flash");
