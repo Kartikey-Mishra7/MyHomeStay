@@ -73,4 +73,44 @@ MyHomeStay brings the experience of a real-world vacation rental platform into c
 
 ---
 
-Screenshots
+## 📸 Screenshots
+
+### 🏠 Home Page
+Shows the main landing page with featured listings, navigation bar, and category filters.
+<img width="1920" height="1014" alt="Screenshot (4613)" src="https://github.com/user-attachments/assets/fbfa691b-f7b1-4873-87c1-dde8799e0dd6" />
+<img width="1920" height="1018" alt="Screenshot (4614)" src="https://github.com/user-attachments/assets/24d57469-0814-4e43-a43b-eb95a2cdd161" />
+
+### 📝 Sign Up Page
+Allows new users to create an account with required details in a simple and secure form.
+<img width="1920" height="1011" alt="Screenshot (4616)" src="https://github.com/user-attachments/assets/14f123cc-db92-4456-80a9-0c8a3a007bbb" />
+
+
+
+### 🔐 Login Page
+Enables registered users to log in securely and access personalized features.
+<img width="1920" height="1016" alt="Screenshot (4617)" src="https://github.com/user-attachments/assets/18918b70-1eb3-4b2d-b5aa-72cc6fd04093" />
+
+
+### ➕ Add New Listing
+Provides a form for users to add new property listings with images, price, location, and category.
+<img width="1885" height="910" alt="Screenshot (4611)" src="https://github.com/user-attachments/assets/d29918fb-7c31-4563-b5c8-8f75666ce843" />
+
+
+### 🗂️ Category Listings
+Displays listings filtered by selected categories such as Farm, Beach, Hills, and OMG.
+<img width="1920" height="1012" alt="Screenshot (4623)" src="https://github.com/user-attachments/assets/1b5c33e1-9fee-4f8a-8a03-fe6a3f30a375" />
+<img width="1920" height="1016" alt="Screenshot (4624)" src="https://github.com/user-attachments/assets/e1b4b950-0763-4ac7-bcc5-c3461e77a5f4" />
+
+
+
+### 🏡 Listing Details (About Listing)
+Shows complete information about a selected listing including description, images, price, and location.
+<img width="1920" height="1009" alt="Screenshot (4619)" src="https://github.com/user-attachments/assets/ac75074d-fcc0-4f7b-b81a-7c3ad1924879" />
+
+
+### ⭐ Ratings & Reviews
+Allows users to view ratings and submit reviews based on their experience with the listing.
+<img width="1920" height="1021" alt="Screenshot (4621)" src="https://github.com/user-attachments/assets/8291bc07-dea8-4780-9f14-a0824dee3e10" />
+<img width="1920" height="1015" alt="Screenshot (4622)" src="https://github.com/user-attachments/assets/6910996d-f3d5-4610-9250-c00db8b68944" />
+
+
