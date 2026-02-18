@@ -16,7 +16,7 @@ Together, MyHomeStay represents a platform that helps users discover, book, and 
 
 ---
 
-## 🚀 Key Features (Recruiter-Focused)
+## 🚀 Key Features
 
 - 🏠 **Dynamic Listing Management**  
   Create, view, update, and delete property listings with real-time data handling and validation.
