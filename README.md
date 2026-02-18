@@ -105,12 +105,19 @@ Displays listings filtered by selected categories such as Farm, Beach, Hills, an
 
 ### 🏡 Listing Details (About Listing)
 Shows complete information about a selected listing including description, images, price, and location.
-<img width="1920" height="1009" alt="Screenshot (4619)" src="https://github.com/user-attachments/assets/ac75074d-fcc0-4f7b-b81a-7c3ad1924879" />
+<img width="1920" height="1015" alt="Screenshot (4625)" src="https://github.com/user-attachments/assets/9ae0a372-e1f7-454e-9835-141669c18363" />
 
 
 ### ⭐ Ratings & Reviews
 Allows users to view ratings and submit reviews based on their experience with the listing.
 <img width="1920" height="1021" alt="Screenshot (4621)" src="https://github.com/user-attachments/assets/8291bc07-dea8-4780-9f14-a0824dee3e10" />
 <img width="1920" height="1015" alt="Screenshot (4622)" src="https://github.com/user-attachments/assets/6910996d-f3d5-4610-9250-c00db8b68944" />
+
+
+### ✏️ Edit  & Delete Listing Page
+Allows users to edit & delete the listing.
+<img width="1920" height="1017" alt="Screenshot (4627)" src="https://github.com/user-attachments/assets/3062966d-0755-4a75-bd3f-3470dbae1e54" />
+<img width="1920" height="1023" alt="Screenshot (4626)" src="https://github.com/user-attachments/assets/0805d753-a4e2-4489-aa2a-5afe7cffc38e" />
+
 
 
